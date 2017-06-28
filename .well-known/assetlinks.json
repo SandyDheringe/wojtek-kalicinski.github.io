@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "com.tenoapp.tenoinstantapp",
     "sha256_cert_fingerprints":
-    ["1E:84:9A:48:BA:C9:3F:65:6C:6D:E6:EE:E4:7E:85:0E:FB:A3:F9:E7:C5:A1:1C:E5:F4:EE:F8:71:3D:BD:62:E3"]
+    ["F2:A0:84:38:16:7F:D6:0A:70:14:EF:6B:63:F1:52:88:DF:40:9D:9E:0D:CF:24:06:F9:A1:4D:52:E5:2D:53:4A"]
   }
 }]
